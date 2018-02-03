@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notely</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_filter">Filter</string>
+    <string name="action_add">New note</string>
+    <string name="action_undo">UNDO</string>
+    <string name="action_edit">EDIT</string>
+    <string name="action_save">SAVE</string>
+    <string name="title_activity_note_detail">NoteDetailActivity</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="delete">Delete</string>
+    <string name="apply">Apply</string>
+    <string name="filter">Filter</string>
+    <string name="hearted">Hearted</string>
+    <string name="favourite">Favourite</string>
+    <string name="note_time_update">Updated %s</string>
+
+    <string name="no_note_present">Click on the + icon to create new Note</string>
+    <string name="no_fav_note_present">No Favourite Note present</string>
+    <string name="no_hearted_note_present">No Hearted Note present</string>
+    <string name="no_fav_hearted_note_present">No Favourite and Hearted Note present</string>
+
+</resources>
